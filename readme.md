@@ -1,4 +1,4 @@
-# Prime number or not
+# 1.Prime number or not
 
 ```c
 #include <stdio.h>
